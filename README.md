@@ -1,5 +1,7 @@
 # Python 2/3 compatible C/C++ extension
 
+[![Build Status](https://travis-ci.org/cchan/py-cpp-extension-2-3.svg?branch=master)](https://travis-ci.org/cchan/py-cpp-extension-2-3)
+
 This is a template to build from for C/C++ extensions that need to be compatible with both Python 2 and 3.
 
 

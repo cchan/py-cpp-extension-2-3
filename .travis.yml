@@ -13,8 +13,12 @@ python:
   - "nightly"
 
 compiler:
-  - clang
   - gcc
+  - clang
+
+env:
+  - CC=gcc
+  - CC=clang
 
 matrix:
   fast_finish: true
